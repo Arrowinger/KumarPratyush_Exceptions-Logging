@@ -1,0 +1,41 @@
+2020-02-26 21:53:45 INFO  com.epam.simpleintrest_housecost.test:22 - 
+
+Main Menu : 
+1.Calculate Simple Intrest and Compund Intrest 
+2.Calculate House Construction Cost
+3.Exit
+
+2020-02-26 21:53:48 WARN  com.epam.simpleintrest_housecost.test:27 - Enter the Principal: 
+
+2020-02-26 21:53:51 WARN  com.epam.simpleintrest_housecost.test:29 - Enter the rate of intrest: 
+
+2020-02-26 21:53:55 WARN  com.epam.simpleintrest_housecost.test:31 - Enter the Time Period:  
+
+2020-02-26 21:53:56 DEBUG com.epam.simpleintrest_housecost.test:13 - Simple Intrest : 
+2020-02-26 21:53:56 INFO  com.epam.simpleintrest_housecost.test:14 - 240.0
+2020-02-26 21:53:56 DEBUG com.epam.simpleintrest_housecost.test:15 - Compound Intrest : 
+2020-02-26 21:53:56 DEBUG com.epam.simpleintrest_housecost.test:16 - 1254.4
+2020-02-26 21:53:56 INFO  com.epam.simpleintrest_housecost.test:22 - 
+
+Main Menu : 
+1.Calculate Simple Intrest and Compund Intrest 
+2.Calculate House Construction Cost
+3.Exit
+
+2020-02-26 21:54:10 INFO  com.epam.simpleintrest_housecost.test:38 - 
+Choose from 1 to 4 which type of materials you want : 
+ 1.Standard Materials 
+ 2.Above Standard Materials 
+ 3.High Standard Materials 
+ 4.High Standard Materials with fully automated home 
+
+2020-02-26 21:54:13 WARN  com.epam.simpleintrest_housecost.test:40 - Enter the total area of the house 
+2020-02-26 21:54:16 DEBUG com.epam.simpleintrest_housecost.test:26 - House Construction Cost based on your input is : 
+2020-02-26 21:54:16 DEBUG com.epam.simpleintrest_housecost.test:27 - 2160000.0
+2020-02-26 21:54:16 INFO  com.epam.simpleintrest_housecost.test:22 - 
+
+Main Menu : 
+1.Calculate Simple Intrest and Compund Intrest 
+2.Calculate House Construction Cost
+3.Exit
+
